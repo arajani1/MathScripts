@@ -179,10 +179,7 @@ def tablesetup(proposition):
 print("Type and enter in the number of the function you would like to apply:")
 print("\t0. Manual")
 print("\t1. Draw table of all combinations for proposition")
-print("\t2. Simplify statement showing steps")
-print("\t3. Simplify statement")
-print("\t4. English to logic")
-print("\t5. Advanced Functions")
+
 
 functionchoice = input()
 
@@ -198,19 +195,6 @@ if functionchoice == 0:
     manual()
 elif functionchoice == 1:
     tablecreator()
-elif functionchoice == 2:
-    #simplification1()
-    print("aSdsdf")
-elif functionchoice == 3:
-    #simplification2()
-    print("aaSdsdf")
-elif functionchoice == 4:
-    #englishconverter()
-    print("aaaSdsdf")
-elif functionchoice == 5:
-    #advanced()
-    print("aaaaaSdsdf")
-
     
 
 
