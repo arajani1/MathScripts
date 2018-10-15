@@ -1,2 +1,2 @@
 # math
-CS projects around math and math functions
+CS projects around math functions
