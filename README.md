@@ -1,2 +1,2 @@
 # math
-CS projects around math functions
+Simple python scripts built around math functions
